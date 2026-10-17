@@ -1,0 +1,6 @@
+{
+  "name": "CareerPath - Student Career & Recommendations",
+  "description": "Personalized career roadmap and skills mastery portal for students with milestone tracking, recruiter demand matching, and alumni mentorship.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
